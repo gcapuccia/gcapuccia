@@ -1,4 +1,10 @@
-### Hi there 👋
+## Console.log("Hi there 👋");
+  
+  - ⚡ My main programming languajes are: JavaScript, PHP, C#, HTML, CSS.
+  - 🌱 I’m currently learning ISTEA - INSTITUTO SUPERIOR TECNOLÓGICO EMPRESARIAL ARGENTINO.
+  
+  - My Personal Linkeding: <a href:"www.linkedin.com/in/guido-capucciati"; >LINKEDING</a>
+
 
 <!--
 **gcapuccia/gcapuccia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

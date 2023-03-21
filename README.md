@@ -2,7 +2,7 @@
 <h3 align="center"> Console.log("Hi there 👋");
   
   - ⚡ My main programming languajes are: JavaScript, PHP, C#, HTML, CSS.
-  - 🌱 I’m currently learning ISTEA - INSTITUTO SUPERIOR TECNOLÓGICO EMPRESARIAL ARGENTINO.</h3>
+  - 🌱 I’m currently learning in ISTEA - INSTITUTO SUPERIOR TECNOLÓGICO EMPRESARIAL ARGENTINO.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gcapuccia&label=Profile%20views&color=0e75b6&style=flat" alt="gcapuccia" /> </p>
 

@@ -35,10 +35,6 @@
   <!--MYSQl -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
-<h2 align="left"><b>Extras:</b></h2>
-
-
-
 
 <h2 align="left"><b>Frameworks:</b></h2>
 <p align="left"> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1163911054788833282/AcA2LnWL_400x400.jpg" alt="LARAVEL" width="40" height="40"/> </a>
@@ -46,6 +42,7 @@
 
 </p>
 
+<h2 align="left"><b>Extras:</b></h2>
 
 <!--Ardruino -->
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>

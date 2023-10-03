@@ -39,12 +39,23 @@
 
 
 
+
+<h2 align="left"><b>Frameworks:</b></h2>
+<p align="left"> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1163911054788833282/AcA2LnWL_400x400.jpg" alt="LARAVEL" width="40" height="40"/> </a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Angular-logo.png" alt="Angular" width="40" height="40"/> </a> 
+
+</p>
+
+
 <!--Ardruino -->
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <!--Chartjs -->
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
     <!--Postman -->
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+    <!--Postman -->
+  <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" alt="NPM" width="40" height="40"/> </a>
 
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcapuccia&show_icons=true&locale=en&layout=compact" alt="gcapuccia" /></p>
